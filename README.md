@@ -2,7 +2,7 @@
 
 
 ## Description
-* describe project here
+* Consolidated code in CSS styling that was repetitive and labeled HTML appropriately for better readability.
 
 ## GitHub Repo URL
 * https://github.com/julianlosak/code-refactor
